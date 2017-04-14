@@ -36,5 +36,8 @@ main p{
     padding-left:20px;
 }
 main div img{
-	height:200px;
+/*	height:auto;
+    display:block;
+    width:auto;*/
+    width:100%;
 }
