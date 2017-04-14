@@ -1,0 +1,40 @@
+
+/*nav*/
+.container{
+    width:100%;
+    background-color:goldenrod;
+    height:100px;
+    margin-top:0px;
+    margin-bottom:40px;
+}
+nav h1{
+	font-size:30px;
+	margin-bottom:7px;
+}
+nav p{
+	margin-top:5px;
+}
+/*cards*/
+.box{
+/*	height:275px;*/
+    border:2px solid gainsboro;
+    margin-bottom:20px;
+}
+.content{
+    margin:0px;
+    width:auto;
+}
+main h2{
+    font-size:20px;
+    padding-top:10px;
+}
+main p{
+    font-size:16px;
+    padding-bottom:10px;
+}
+.padding{
+    padding-left:20px;
+}
+main div img{
+	height:200px;
+}
